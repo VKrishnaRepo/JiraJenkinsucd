@@ -3,3 +3,6 @@ My Daily Notes
 2)Installed JENKINS in machine
 3) Installed GIT Bash in system 
 All password are stored in Notes 
+====================================
+
+this is for first pull request and to get list of files changed
