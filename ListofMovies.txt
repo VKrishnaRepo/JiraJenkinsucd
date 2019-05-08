@@ -18,3 +18,5 @@ Checked all movies
 
 
 InitialChatFriendsList
+==========================
+aaranya kandam movie added for testing
