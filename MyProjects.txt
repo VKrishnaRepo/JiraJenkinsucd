@@ -1,0 +1,4 @@
+This file is for testing pull request payload and to list the projects which i am working on 
+process flow is 
+1) create a python file which reads json file and create a data set which can be pushed in to csv file or database
+2) check the status of pull request create and cancel and close, all 3 request types
